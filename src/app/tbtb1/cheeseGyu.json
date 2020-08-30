@@ -73,11 +73,11 @@
   },
   {
     "questionNo":9,
-    "questionSentence":"かばん",
-    "answer1":"大きめの斜め掛けの鞄",
-    "answer2":"答え",
-    "answer3":"答え",
-    "answer4":"答え"
+    "questionSentence":"直近ではまっていたトレーディングカードゲームは？",
+    "answer1":"Magic: The Gathering",
+    "answer2":"遊戯王",
+    "answer3":"デュエル・マスターズ",
+    "answer4":"その他"
   },
   {
     "questionNo":10,
