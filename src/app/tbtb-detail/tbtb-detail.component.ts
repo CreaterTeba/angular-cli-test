@@ -1,6 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import {PrmCheeseService} from '../service/prm-cheese.service'
 import {JudgeCheeseService} from '../service/judge-cheese.service'
+import {Router} from '@angular/router';
+
 
 @Component({
   selector: 'app-tbtb-detail',
@@ -13,6 +15,7 @@ export class TbtbDetailComponent implements OnInit {
   constructor(
     private prmCheeseService: PrmCheeseService,
     private judgeCheeseService: JudgeCheeseService,
+    private router:Router,
     ) { }
 
   ngOnInit(): void {
@@ -21,4 +24,9 @@ export class TbtbDetailComponent implements OnInit {
     this.judgeCheeseService.keisan();
     console.log(this.judgeCheeseService.getSum());
   }
+    //各ボタン共通
+    onclick() {
+        this.router.navigate(['/tbtb2']);
+      }
+    
 }
