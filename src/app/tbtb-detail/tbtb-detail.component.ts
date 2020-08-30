@@ -23,10 +23,5 @@ export class TbtbDetailComponent implements OnInit {
     this.judgeCheeseService.setResultList(this.array);
     this.judgeCheeseService.keisan();
     console.log(this.judgeCheeseService.getSum());
-  }
-    //各ボタン共通
-    onclick() {
-        this.router.navigate(['']);
-      }
-    
+  }    
 }
