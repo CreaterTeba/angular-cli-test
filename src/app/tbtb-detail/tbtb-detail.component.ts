@@ -26,7 +26,7 @@ export class TbtbDetailComponent implements OnInit {
   }
     //各ボタン共通
     onclick() {
-        this.router.navigate(['/tbtb2']);
+        this.router.navigate(['']);
       }
     
 }
