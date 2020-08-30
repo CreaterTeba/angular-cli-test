@@ -13,6 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
+            "deployUrl": "https://createrteba.github.io/angular-cli-test/",
             "outputPath": "dist/tbtb-app",
             "index": "src/index.html",
             "main": "src/main.ts",
