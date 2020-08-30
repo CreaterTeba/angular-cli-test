@@ -49,14 +49,22 @@
   },
   {
     "questionNo":6,
+    "questionSentence":"？？",
+    "answer1":"答え",
+    "answer2":"答え",
+    "answer3":"答え",
+    "answer4":"答え"
+  },
+  {
+    "questionNo":7,
     "questionSentence":"最近外出した際の服装は？",
     "answer1":"上級ブランド(仮)",
     "answer2":"ユニクロ",
     "answer3":"ボーダーの半袖Tシャツ",
     "answer4":"ママが買ってきた謎の英語が入った服"
-  },
+  },  
   {
-    "questionNo":7,
+    "questionNo":8,
     "questionSentence":"SNSのアイコン",
     "answer1":"アニメキャラ",
     "answer2":"自分の写真",
@@ -64,7 +72,7 @@
     "answer4":"ママの写真"
   },
   {
-    "questionNo":8,
+    "questionNo":9,
     "questionSentence":"かばん",
     "answer1":"大きめの斜め掛けの鞄",
     "answer2":"答え",
@@ -72,19 +80,11 @@
     "answer4":"答え"
   },
   {
-    "questionNo":9,
+    "questionNo":10,
     "questionSentence":"チー牛が流行っていることについての見解は？",
     "answer1":"無駄にマウント取ろうとしていて気分が悪い。",
     "answer2":"とりあえずマウント取れるのでうれしい。",
     "answer3":"チー牛チー牛騒ぎすぎだと思う。",
     "answer4":"特に何も思わない。"
-  },  
-  {
-    "questionNo":10,
-    "questionSentence":"テスト",
-    "answer1":"答え",
-    "answer2":"答え",
-    "answer3":"答え",
-    "answer4":"答え"
   }
 ]
