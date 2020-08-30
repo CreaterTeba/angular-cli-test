@@ -33,7 +33,7 @@
   },
   {
     "questionNo":4,
-    "questionSentence":"髪はどこで切るか？",
+    "questionSentence":"髪はどこで切るか？", 
     "answer1":"美容院(予約)_(さらさら)",
     "answer2":"コスパ最強の１０００円カット(シャンプーなし)_(プレーン)",
     "answer3":"切る髪がない_(はげ)",
@@ -49,11 +49,11 @@
   },
   {
     "questionNo":6,
-    "questionSentence":"？？",
-    "answer1":"答え",
-    "answer2":"答え",
-    "answer3":"答え",
-    "answer4":"答え"
+    "questionSentence":"eスポーツ大会決勝に出場した男子学生に対してコメントは？",
+    "answer1":"娯楽を突き詰めた結果、並外れたプレイに達したことは、プロスポーツと同等に価値のあることだと思う。",
+    "answer2":"特に何も思わない。",
+    "answer3":"自分のほうがうまい。",
+    "answer4":"チーズ牛丼食ってそうw"
   },
   {
     "questionNo":7,
