@@ -35,16 +35,16 @@
     "questionNo":4,
     "questionSentence":"髪はどこで切るか？", 
     "answer1":"美容院(予約)_(さらさら)",
-    "answer2":"コスパ最強の１０００円カット(シャンプーなし)_(プレーン)",
-    "answer3":"切る髪がない_(はげ)",
+    "answer2":"コスパ最強の１０００円カット(シャンプーなし)",
+    "answer3":"切る髪がない",
     "answer4":"ママに切ってもらう_(前髪ぱっつん)"
   },
   {
     "questionNo":5,
     "questionSentence":"劇場版「Fate/stay night [Heaven's Feel]」Ⅲ.spring song の感想は？",
-    "answer1":"見ていない",
+    "answer1":"見ていない。というか映画のタイトル長くない？",
     "answer2":"バーサーカー戦の尺が劇場版の悲しみ(尺)を負っていたけれども、しかしながら、全体として作画/音響の安定感はさすがufotableと言わざるを得ないものであって..",
-    "answer3":"おもしろかった。",
+    "answer3":"よい映画だった。",
     "answer4":"周りの客がチー牛ばかりで草だった。"
   },
   {
@@ -75,9 +75,9 @@
     "questionNo":9,
     "questionSentence":"直近ではまっていたトレーディングカードゲームは？",
     "answer1":"Magic: The Gathering",
-    "answer2":"遊戯王",
+    "answer2":"遊戯王", 
     "answer3":"デュエル・マスターズ",
-    "answer4":"その他"
+    "answer4":"カードゲームにかまけたことはございません。"
   },
   {
     "questionNo":10,

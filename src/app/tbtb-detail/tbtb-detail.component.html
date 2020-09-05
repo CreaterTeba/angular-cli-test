@@ -4,9 +4,9 @@
   <meta charset="utf-8">
 </head>
 <body>
-    <img [src]="'assets/img/cheese_gyu_plane.png'" alt="image">
-    <p>あなたは「xxxxx」チー牛です。</p>
-    {{array}}
+    <img [src]=displayImage alt="image">
+    <p>あなたは「{{displayCheeseTypeName}}」です。</p>
+    <p>{{displayDiscription}}</p>
     <a href="/angular-cli-test/tbtb" class="btn-square-shadow"style="width:30%;">はじめから</a>
 </body>
 

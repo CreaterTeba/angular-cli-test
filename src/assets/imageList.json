@@ -1,0 +1,18 @@
+[
+  {
+    "selectNo":0,
+    "selectPicturePath":""
+  },
+  {
+    "selectNo":1,
+    "selectPicturePath":"assets/img/gyudon.png"
+  },
+  {
+    "selectNo":2,
+    "selectPicturePath":"assets/img/ushi.png"
+  },
+  {
+    "selectNo":3,
+    "selectPicturePath":"assets/img/cheese_gyu_plane.png"
+  }
+]
