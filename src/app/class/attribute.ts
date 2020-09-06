@@ -1,21 +1,56 @@
 export class Attribute {
-    female: number;
-    fat: number;
-    ota: number;
-    gyudon: number;
-    ushi: number;
-    seitouha: number;
-    ikiri: number;
-    zen: number;
-    hinekure: number;
-    mukiryoku: number;
-    kojirase: number;
-    kaminokenashi: number;
-    osyarekaminoke: number;
-    osyare: number;
-    mama: number;
-    fate: number;
+    private female: number;
+    private fat: number;
+    private ota: number;
+    private gyudon: number;
+    private ushi: number;
+    private seitouha: number;
+    private ikiri: number;
+    private zen: number;
+    private hinekure: number;
+    private mukiryoku: number;
+    private kojirase: number;
+    private kaminokenashi: number;
+    private osyarekaminoke: number;
+    private osyare: number;
+    private mama: number;
+    private fate: number;
 
+    constructor(female: number,
+        fat: number,
+        ota: number,
+        gyudon: number,
+        ushi: number,
+        seitouha: number,
+        ikiri: number,
+        zen: number,
+        hinekure: number,
+        mukiryoku: number,
+        kojirase: number,
+        kaminokenashi: number,
+        osyarekaminoke: number,
+        osyare: number,
+        mama: number,
+        fate: number,
+    ) {
+        this.female = female
+        this.fat = fat
+        this.ota = ota
+        this.gyudon = gyudon
+        this.ushi = ushi
+        this.seitouha = seitouha
+        this.ikiri = ikiri
+        this.zen = zen
+        this.hinekure = hinekure
+        this.mukiryoku = mukiryoku
+        this.kojirase = kojirase
+        this.kaminokenashi = kaminokenashi
+        this.osyarekaminoke = osyarekaminoke
+        this.osyare = osyare
+        this.mama = mama
+        this.fate = fate
+
+    }
     setFemale(female: number) { this.female = female }
     getFemale() { return this.female }
     setFat(fat: number) { this.fat = fat }
